@@ -23,8 +23,6 @@ E-posta adresi.
 
 Kullanıcıya ait benzersiz hesap kimliği.
 
-Profil fotoğrafı (sağlanması durumunda).
-
 2.2. Uygulama Kullanım Bilgileri
 
 Uygulamanın kullanımını iyileştirmek amacıyla aşağıdaki bilgiler işlenebilir:
@@ -88,7 +86,7 @@ Uygulama içerisindeki hesap silme özelliği kullanılabilir (mevcutsa).
 
 Aşağıdaki e-posta adresi üzerinden hesap silme talebi iletilebilir.
 
-E-posta: [E-POSTA ADRESİNİZ]
+E-posta: sezginkiziroglu@gmail.com
 
 Hesap silme talebi doğrulandıktan sonra, kullanıcıya ait kişisel veriler ilgili yasal yükümlülükler ve saklama gereklilikleri saklı kalmak kaydıyla silinir veya anonim hale getirilir.
 
@@ -128,8 +126,8 @@ Gizlilik politikamız, kişisel verileriniz veya hesap silme talepleriniz hakkı
 
 Uygulama adı: ILG
 
-Geliştirici: [GELİŞTİRİCİ ADI VEYA ŞİRKET ADI]
+Geliştirici: Moon Light Studios
 
-E-posta: [İLETİŞİM E-POSTA ADRESİ]
+E-posta: sezginkiziroglu@gmail.com
 
 Gizlilik Politikası: ILG Privacy Policy
